@@ -1,0 +1,6 @@
+{
+  "name": "ChuzaPlayz, earn paid rewards",
+  "description": "Design clean corporate logos from text descriptions and animate them into videos using Imagen and Veo models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
